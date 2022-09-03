@@ -1,0 +1,44 @@
+[
+  {
+    "name": "breeds",
+    "path": "/breeds",
+    "component": "C:\\\\xampp\\\\htdocs\\\\doggie-app-advanced\\\\pages\\\\breeds\\\\index.vue",
+    "chunkName": "pages/breeds/index",
+    "_name": "_e1d25746"
+  },
+  {
+    "name": "randoms",
+    "path": "/randoms",
+    "component": "C:\\\\xampp\\\\htdocs\\\\doggie-app-advanced\\\\pages\\\\randoms\\\\index.vue",
+    "chunkName": "pages/randoms/index",
+    "_name": "_14a57ac8"
+  },
+  {
+    "name": "wishlist",
+    "path": "/wishlist",
+    "component": "C:\\\\xampp\\\\htdocs\\\\doggie-app-advanced\\\\pages\\\\wishlist\\\\index.vue",
+    "chunkName": "pages/wishlist/index",
+    "_name": "_567e5fd7"
+  },
+  {
+    "name": "breeds-breed",
+    "path": "/breeds/:breed",
+    "component": "C:\\\\xampp\\\\htdocs\\\\doggie-app-advanced\\\\pages\\\\breeds\\\\_breed\\\\index.vue",
+    "chunkName": "pages/breeds/_breed/index",
+    "_name": "_148c6e48"
+  },
+  {
+    "name": "breeds-breed-subbreed",
+    "path": "/breeds/:breed/:subbreed",
+    "component": "C:\\\\xampp\\\\htdocs\\\\doggie-app-advanced\\\\pages\\\\breeds\\\\_breed\\\\_subbreed.vue",
+    "chunkName": "pages/breeds/_breed/_subbreed",
+    "_name": "_17a91289"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\xampp\\\\htdocs\\\\doggie-app-advanced\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_30574cbc"
+  }
+]
